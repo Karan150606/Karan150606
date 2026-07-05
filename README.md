@@ -1,21 +1,103 @@
-# 💫 About Me:
-I am a passionate and dedicated Information Technology student with a strong interest in software development, distributed systems, and problem-solving. I enjoy building practical solutions that address real-world challenges while continuously improving my programming and analytical skills.<br><br>I have hands-on experience in Java, Python, and Data Structures & Algorithms, and I actively strengthen my coding abilities through regular problem-solving. During my Software Development Internship at Boyante Solutions, I gained exposure to software development practices, software testing, Jira, and test case management, which enhanced my understanding of the software development lifecycle and industry workflows.<br><br>I am particularly interested in developing innovative technology solutions and enjoy working on projects involving embedded systems, IoT, and distributed computing. I value teamwork, adaptability, and continuous learning, and I am always eager to explore new technologies that help solve meaningful problems.<br><br>My goal is to grow as a software engineer by contributing to impactful projects while expanding my technical expertise in software development, system design, and emerging technologies.<br>
+# 👋 Hi there, I'm Karan!
 
+### 💫 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_mr_karan_._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan1506/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanbabu1506@gmail.com) 
+🚀 Passionate **Information Technology** student with a strong enthusiasm for **Software Development, Distributed Systems, Cloud Computing, and Problem Solving**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Karan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Karan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Karan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💡 I enjoy transforming innovative ideas into real-world applications while continuously sharpening my skills through hands-on projects and competitive programming.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+🎯 During my **Software Development Internship at Boyante Solutions**, I gained practical experience in software testing, Jira, test case management, and the Software Development Life Cycle (SDLC), strengthening my understanding of industry-standard development workflows.
+
+🌱 I am constantly exploring modern technologies including **Java, Spring Boot, FastAPI, AWS, IoT, and System Design**, and I enjoy solving challenging Data Structures & Algorithms problems.
+
+✨ I believe in writing clean, scalable, and efficient code while embracing teamwork, continuous learning, and innovation.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Karan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently
+
+* 🌱 Learning **Spring Boot**, **AWS**, and **System Design**
+* 💻 Solving **Data Structures & Algorithms** problems daily
+* 🔥 Building full-stack and IoT-based applications
+* 🎯 Preparing for Software Development Engineer (SDE) roles
+* 📚 Exploring Distributed Systems and Cloud Technologies
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge\&logo=apachetomcat\&logoColor=black)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&no-frame=true\&margin-w=15)
+
+---
+
+## 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+## 💭 Favorite Quote
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> — Harold Abelson
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge\&color=blue)
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
