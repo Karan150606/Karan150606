@@ -69,17 +69,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&no-frame=true\&margin-w=15)
-
----
-
-## 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)
-
----
 
 ## 🌐 Connect With Me
 
