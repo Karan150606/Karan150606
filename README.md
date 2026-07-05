@@ -86,6 +86,12 @@
   </a>
 </p>
 
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## 💭 Favorite Quote
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*
