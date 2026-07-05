@@ -89,7 +89,7 @@
 ## 👾 Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karan150606&style=for-the-badge&color=0e75b6"/>
+  <img src="https://raw.githubusercontent.com/Karan150606/Karan150606/output/pacman-contribution-graph-dark.svg">
 </p>
 
 ## 💭 Favorite Quote
