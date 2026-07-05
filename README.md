@@ -86,10 +86,10 @@
   </a>
 </p>
 
-## 🐍 Watch My Contributions Get Eaten!
+## 👾 Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/karan150606/karan150606/output/pacman-contribution-graph-dark.svg">
 </p>
 
 ## 💭 Favorite Quote
